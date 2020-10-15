@@ -16,7 +16,7 @@ The current version of the collection uses the following tools:
 * [pytest-splinter](https://github.com/pytest-dev/pytest-splinter) - for writing automated UI tests in pytest
 * [Faker](https://faker.readthedocs.io/en/master/) - for generating mock data
 * [locust](https://locust.io/) - A load testing framework
-* [Splinter](https://splinter.readthedocs.io/en/latest/) - for automate web browser actions
+* [Splinter](https://splinter.readthedocs.io/en/latest/) - to automate web browser actions
 * [json-server](https://github.com/typicode/json-server) - for creating a mock RESTFul API server.
 
 ## Requirements
@@ -26,7 +26,7 @@ The current version of the collection uses the following tools:
 
 ## Installation
 
-* Clone this repo:
+* Clone this repo: ```git clone https://github.com/adelagon/automating-tests-in-python.git```
 * Go the project root: ```cd automation-test-in-python```
 * Install json-server with: ```npm install -g json-server```
 * Run the json-server in the background in order to run the sample tests: ```json-server --watch db.json``` and open a new terminal session.
