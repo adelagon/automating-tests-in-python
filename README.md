@@ -5,8 +5,8 @@ This is a collection of jupyter notebooks that have code code snippets about how
 
 * [Unit Tests](chapter-1-unit-testing.ipynb)
 * [Integration Tests](chapter-2-integration-testing.ipynb)
-* [Performance Tests](chapter-3-performance-testing.ipynb)
-* [UI Tests](chapter-4-ui-testing.ipynb)
+* [UI Tests](chapter-3-ui-testing.ipynb)
+* [Performance Tests](chapter-4-performance-testing.ipynb)
 
 The current version of the collection uses the following tools:
 
