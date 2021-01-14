@@ -1,7 +1,7 @@
 # Automating Tests in Python
 
 ## About
-This is a collection of jupyter notebooks that have code code snippets about how to automate different kinds of tests in python.
+This is a collection of jupyter notebooks that have code snippets about how to automate different kinds of tests in python.
 
 * [Unit Tests](chapter-1-unit-testing.ipynb)
 * [Integration Tests](chapter-2-integration-testing.ipynb)
